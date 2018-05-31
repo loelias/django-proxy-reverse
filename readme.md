@@ -1,1 +1,1 @@
-[![Build Status](https://travis-ci.org/loelias/django-proxy-reverse.svg?branch=dev)](https://travis-ci.org/loelias/django-proxy-reverse)
+[![Build Status](https://travis-ci.org/loelias/django-proxy-reverse.svg?branch=dev)](https://travis-ci.org/loelias/django-proxy-reverse) [![codecov](https://codecov.io/gh/loelias/django-proxy-reverse/branch/master/graph/badge.svg)](https://codecov.io/gh/loelias/django-proxy-reverse)
