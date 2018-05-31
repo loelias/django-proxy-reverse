@@ -1,1 +1,1 @@
-[![Build Status](https://travis-ci.org/changing-official/banking-kata.svg?branch=dev)](https://travis-ci.org/changing-official/banking-kata)
+[![Build Status](https://travis-ci.org/loelias/django-proxy-reverse.svg?branch=dev)](https://travis-ci.org/loelias/django-proxy-reverse)
