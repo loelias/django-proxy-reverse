@@ -1,1 +1,1 @@
-This is an initial project developed in Django trying to achive a proxy reverse example to get to work.
+[![Build Status](https://travis-ci.org/changing-official/banking-kata.svg?branch=dev)](https://travis-ci.org/changing-official/banking-kata)
