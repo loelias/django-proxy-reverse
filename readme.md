@@ -1,1 +1,1 @@
-This is an initial project developed in Django trying to achive a proxy reverse example to get to work.
+[![Build Status](https://travis-ci.org/loelias/django-proxy-reverse.svg?branch=dev)](https://travis-ci.org/loelias/django-proxy-reverse) [![codecov](https://codecov.io/gh/loelias/django-proxy-reverse/branch/master/graph/badge.svg)](https://codecov.io/gh/loelias/django-proxy-reverse)
